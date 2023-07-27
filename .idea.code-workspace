@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../calculation"
+		},
+		{
+			"path": "../config"
+		},
+		{
+			"path": "../controller"
+		},
+		{
+			"path": "../data"
+		},
+		{
+			"path": "../graphics"
+		},
+		{
+			"path": "../utility"
+		},
+		{
+			"path": "../views"
+		},
+		{
+			"path": "../window"
+		}
+	]
+}
